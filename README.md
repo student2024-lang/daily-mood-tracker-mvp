@@ -26,4 +26,4 @@ To create an MVP that allows users to quickly record their daily mood.
 ## Definition of Success
 - Mood entries can be added without errors
 - Data is saved and displayed correctly
-- The main user scenario works consistently
+- The main user scenario works consistentl
